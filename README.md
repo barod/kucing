@@ -1,2 +1,0 @@
-# kucing
-Okol
